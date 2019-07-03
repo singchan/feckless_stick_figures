@@ -1,21 +1,12 @@
-
 remote_theme: siddhantgoel/clean-jekyll-theme
-
-title: John Doe
-
-name: John Doe
-
-description: Site description goes here.
-
-baseurl: "/feckless_stick_figures"
-
+title: 'Stastic for Jekyll '
+name: Test name
+description: Stastic test
+baseurl: /feckless_stick_figures
 lang: en
-
 github_username: johndoe
-
-social: 
-    name: John Doe
-    links:
-        - https://twitter.com/johndoe
-        - https://github.com/johndoe
-
+social:
+  name: John Doe
+  links:
+    - 'https://twitter.com/johndoe'
+    - 'https://github.com/johndoe'
